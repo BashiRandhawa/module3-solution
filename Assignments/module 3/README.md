@@ -4,5 +4,5 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](Desktop/Assignments/module%203/index.html)
+# To see the output [CLICK HERE](module%203/index.html)
 
